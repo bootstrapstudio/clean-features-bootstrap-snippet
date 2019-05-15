@@ -2,9 +2,9 @@
 
 [![Bootstrap Freebies](/readme-images/github-bootstrap-freebies.png)](https://github.com/topics/bootstrap-freebies/) 
 
-**Clean features snippet** made with Bootstrap 4. It is fully responsive and has a minimalistic design that will look good on any website. Simply copy, paste, and change the [Font Awesome](https://fontawesome.com/) icons and text to showcase your project's best qualities. [See a live demo here &raquo;](https://epicbootstrap.com/snippets/features-clean)
+**Clean features snippet** made with Bootstrap 4. It is fully responsive and has a minimalistic design that will look good on any website. Simply copy, paste, and change the [Font Awesome](https://fontawesome.com/) icons and text to showcase your project's best qualities. [Get it in Bootstrap Studio &raquo;](https://bootstrapstudio.io)
 
-[![Clean Features](/readme-images/screenshot.png)](https://epicbootstrap.com/snippets/features-clean) 
+[![Clean Features](/readme-images/screenshot.png)](https://bootstrapstudio.io) 
 
 ## Features
 
